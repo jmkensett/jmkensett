@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jmkensett (Matthew Kensett) 
+- 👀 I’m an economist with interests in labour and public economics. I am particularly interested in the economics of inequality and climate change.  
+- 🌱 I am currently working on the distributional impacts of climate change policies on labour and financial markets, and in turn how households are impacted. 
